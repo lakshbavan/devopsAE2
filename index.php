@@ -87,7 +87,7 @@
 							$pdo->close();
 
 							?>
-							<h2>Productst</h2>
+							<h2>Productss</h2>
 						</div>
 						<section class="content">
 							<div class="row">
